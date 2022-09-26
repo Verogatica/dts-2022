@@ -1,5 +1,5 @@
 # dts-2022
 
-## Peliculas favoritas
+## Peliculas **favoritas**
 
 Mi primer repositorio
